@@ -97,8 +97,7 @@ automatic data tests
 * Release pipeline code
 * Options for deployment and how to deploy a model
 
-# Module 3 
-<hr>
+# Module 3 <hr>
 ## Deploying a Scalable ML Pipeline in Production
 
 This course teaches students how to deploy a machine learning model into production. En route to that
@@ -167,4 +166,4 @@ dependency issues. Finally, students will learn to set up automated reporting wi
 > **Model Reporting and Monitoring with APIs**
 * Create API endpoints that enable users to access model results, metrics and diagnostics
 * Set up APIs with multiple, complex endpoints
-* Call APIs and work with their results.
+* Call APIs and work with their results
