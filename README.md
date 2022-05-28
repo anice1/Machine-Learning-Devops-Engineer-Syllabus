@@ -47,8 +47,8 @@ Develop skills that are essential for deploying production machine learning mode
 * Open pull requests for making changes to production code
 * Conduct and receive code reviews using best practices
 
-### LESSON THREE Production
-> **Ready Code**
+### LESSON THREE 
+> **Production Ready Code**
 * Correctly use try-except blocks to identify errors
 * Create unit tests to test programs
 * Track actions and results of processes with logging
