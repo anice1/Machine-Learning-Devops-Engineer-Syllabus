@@ -2,7 +2,7 @@
 
 Learning how to deploy machine learning models is a challenging situation as of today the 28th of May 2022. A couple drawbacks due to lack of funds to purchase the udacity [Machine Learning Devops Engineer]('https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821') course led to the creation of this repository.
 
-This repo borrows state of the art syllable from the [Machine Learning Devops Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) course from Udacity and spiced it up with different tutorial videos from [Youtube](youtube.com) for learning purpose.
+This repo borrows state of the art syllable from the [Machine Learning Devops Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) course from Udacity and spiced it up with different tutorial videos from [Youtube](https://www.youtube.com) for learning purpose.
 
 **PS: This repo is only designed to help guide me in my journey learning MLOPs and is not in any way intended to discredit Udacity. All credit goes to Udacity for producing a well detailed syllable for learning Machine learning deployment operation and maintainance.**
 
